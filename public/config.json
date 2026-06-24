@@ -1,4 +1,4 @@
 {
-  "apiBaseUrl": "/api",
-  "wsUrl": "ws://localhost:8080/ws"
+  "apiBaseUrl": "https://billy-investigated-infections-adams.trycloudflare.com/api",
+  "wsUrl": "wss://billy-investigated-infections-adams.trycloudflare.com/ws"
 }
